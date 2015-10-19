@@ -19,6 +19,7 @@ i made some global vars that are related to all the api calls:
 
 ```
 commissionRateFrom = 0.04
+
 commissionRateTo = 0.9
 
 pageSize = 40
