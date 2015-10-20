@@ -1,4 +1,6 @@
 # aliexpress-API-wrapper-
+
+
 Hi guys, this is a wrapper for aliexpress API, that support all of it's basic functions. 
 
 The wrapper is based on the Aliexpress official Docs: http://portals.aliexpress.com/help/help_center_API.html
@@ -13,7 +15,7 @@ getPromotionProductDetail()
 getPromotionLinks()
 ```
 
-see the docs for more details.
+see the docs for more details. (parameters etc.)
 
 i made some global vars that are related to all the api calls:
 
