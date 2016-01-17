@@ -78,8 +78,9 @@ def getPromotionLinks(appkey,fields=[],trackingID='0',urls=['']):
 	return
 
 def main(): 
-	appkey = '68201'
-	trackingID = '0525278254'
+	# add your details
+	appkey = ''
+	trackingID = ''
 
 	promoProductResult = listPromotionProduct(appkey,["totalResults","productId","productTitle","originalPrice","salePrice","discount"],["led","solar"])
 	print promoProductResult
